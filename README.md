@@ -10,6 +10,16 @@
 npm install npm-sample-sitest
 ```
 
+## CDN
+
+```
+<script
+  src="https://cdn.jsdelivr.net/npm/npm-sample-sitest@1.1.0/dist/npm-sample-sitest.min.js"
+  integrity="sha384-Qpxmj5izXldy6anCFwAjmIP5yRcKMA/6wMTMPGIPmeiCjP7CU1N5m7lxlekXtaLz"
+  crossorigin="anonymous"
+></script>
+```
+
 ## License
 
 MIT License
