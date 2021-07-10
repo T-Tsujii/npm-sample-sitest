@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/src/pages
+
+/.vscode
+/.idea
+.DS_Store
+
+.env
+.env.development
